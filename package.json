@@ -1,0 +1,19 @@
+{
+  "name": "Battleship_Game",
+  "version": "1.0.0",
+  "description": "A study in Javascript and Firebase by creating Battleship",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SondaSengupta/Battleship_Game.git"
+  },
+  "author": "Sonda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SondaSengupta/Battleship_Game/issues"
+  },
+  "homepage": "https://github.com/SondaSengupta/Battleship_Game"
+}
