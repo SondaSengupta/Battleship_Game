@@ -1,0 +1,18 @@
+{
+  "name": "Battleship_Game",
+  "version": "0.0.0",
+  "homepage": "https://github.com/SondaSengupta/Battleship_Game",
+  "authors": [
+    "SondaSengupta <sondasengupta@gmail.com>"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
