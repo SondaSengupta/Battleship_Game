@@ -1,0 +1,11 @@
+.sea-board{
+  height: 1000px;
+  width: 1000px;
+  background-color: blue;
+}
+
+.battleship {
+  height: 90px;
+  width: 90px;
+  background-color: darkgrey;
+}
