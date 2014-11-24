@@ -1,4 +1,7 @@
 $(document).ready(function(){
-  $(".battleship").draggable();
-
+  $(".battleship").draggable({
+    grid: [ 80, 80 ],
+    revert: "invalid"
+    });
+  $(".sea-board").droppable();
 });
