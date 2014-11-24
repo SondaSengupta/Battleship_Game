@@ -1,4 +1,4 @@
- $('.piece').draggable({
-    drop: function(event, ui){
-      console.log("dropped onto piece");
-  }
+$(document).ready(function(){
+  $(".battleship").draggable();
+
+});
