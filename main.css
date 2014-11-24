@@ -2,12 +2,14 @@
   height: 500px;
   width: 500px;
   background-color: blue;
+  color: white;
 }
 
 .battleship {
   height: 90px;
   width: 90px;
   background-color: darkgrey;
+  border: 1px solid black;
 }
 
 .black{

@@ -1,6 +1,6 @@
 $(document).ready(function(){
   $(".battleship").draggable({
-    grid: [ 80, 80 ],
+    grid: [50, 50],
     revert: "invalid"
     });
   $(".sea-board").droppable();
